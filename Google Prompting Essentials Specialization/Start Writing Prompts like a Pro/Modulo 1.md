@@ -90,8 +90,12 @@ Sí. Incluye estrategias para mitigar sesgos y errores en las respuestas, y eval
 - Como plantilla para tu portafolio o repositorio de prompts reutilizables.
 
 ---
-https://coursera.org/verify/3ODHI80BO2HE 
+https://coursera.org/verify/3ODHI80BO2HE
+
+[Coursera 3ODHI80BO2HE.pdf](https://github.com/user-attachments/files/21554488/Coursera.3ODHI80BO2HE.pdf)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9213310b-1e71-4599-ac60-9137777602db" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47bcf370-ea53-4ff1-9ea3-26be59ec7182" />
+
+
