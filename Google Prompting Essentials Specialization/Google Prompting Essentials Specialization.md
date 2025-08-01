@@ -92,6 +92,7 @@ Al completar los 4 módulos, obtuve un **Certificado oficial de Google** (vía C
 - [Grow with Google](https://grow.google/prompting-essentials/)
 - [Google AI Studio](https://ai.google.dev/)
 - [Prompting strategies (docs)](https://ai.google.dev/gemini-api/docs/prompting-strategies)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3afae530-f208-4785-adfd-42b1063db99f" />
 
 ---
 
