@@ -6,90 +6,84 @@ Especialización: *Google Prompting Essentials* – Coursera / Google
 ## 🧠 Descripción del Módulo 1
 
 **Duración estimada:** ~2 horas  
-**Idiomas:** inglés con múltiples subtítulos disponibles  
-Incluye 13 videos (37 min), 5 lecturas (30 min), 4 tareas prácticas (63 min) y un plugin interactivo (Coach) de ~15 min 
+**Idiomas:** Inglés con múltiples subtítulos disponibles  
+Incluye:  
+- 13 videos (~37 min)  
+- 5 lecturas (~30 min)  
+- 4 tareas prácticas (~63 min)  
+- 1 plugin interactivo (“Coach”) (~15 min)
 
-Aprenderás:  
-- Qué es un *prompt* y por qué es esencial en IA generativa.  
-- El **marco de 5‑pasos** para diseñar prompts efectivos.  
-- Cómo iterar y mejorar prompts.  
-- Introducción al prompting multimodal (texto → imagen).  
-- Buenas prácticas éticas y cómo mitigar alucinaciones. :contentReference[oaicite:2]{index=2}
+### Aprenderás:
+- Qué es un *prompt* y por qué es esencial en IA generativa  
+- El **marco de 5 pasos** para diseñar prompts efectivos  
+- Cómo iterar y mejorar prompts  
+- Introducción al prompting multimodal (texto → imagen)  
+- Buenas prácticas éticas y cómo mitigar alucinaciones de IA
 
 ---
 
 ## 🔍 Contenidos principales del módulo
 
 ### 🎯 Qué aprenderás
-- Uso del marco de pasos: tarea, contexto, referencias, evaluación e iteración 
-- Iteración de prompts: 4 métodos prácticos para refinar tus resultados 
-- Multimodal prompting: cómo incluir imágenes o documentos como parte del contexto  
-- Responsabilidad en IA: detectar errores, sesgos o "alucinaciones" en salidas generadas 
+- Uso del marco de pasos: tarea, contexto, referencias, evaluación e iteración  
+- Iteración de prompts: 4 métodos prácticos para refinar resultados  
+- Prompting multimodal: cómo incluir imágenes o documentos como contexto  
+- Responsabilidad en IA: detectar errores, sesgos o "alucinaciones" en las salidas generadas  
 
 ---
 
 ## ❓ Preguntas frecuentes (Q&A estilo Coursera)
 
 ### ¿Qué es un prompt?
-Un **prompt** es un fragmento de texto que se le da a un modelo de lenguaje grande (LLM) como entrada, utilizado para controlar su salida. 
+Un **prompt** es un fragmento de texto que se proporciona a un modelo de lenguaje grande (LLM) como entrada para guiar su salida.
 
 ### ¿Cuál es la diferencia entre modelos generativos y discriminativos?
-- Un modelo **generativo** (como uno entrenado con imágenes de gatos) puede generar nuevas imágenes.
-- Un modelo **discriminativo** se usa para clasificar entradas entre categorías (por ejemplo, gato vs. perro).
+- Un modelo **generativo** puede crear contenido nuevo, como imágenes o texto.
+- Un modelo **discriminativo** clasifica entradas en categorías (por ejemplo, gato vs. perro).
 
 ### ¿Qué son los *foundation models*?
-Son modelos grandes entrenados con gran cantidad de datos para luego adaptarse (fine-tuning) a varias tareas específicas.
+Son modelos entrenados con grandes volúmenes de datos que luego se pueden adaptar a tareas específicas mediante fine-tuning.
 
 ### ¿Qué causa *alucinaciones* en IA?
-Pueden producirse por datos ruidosos, falta de contexto o insuficientes datos durante el entrenamiento. 
+Errores generados por la IA pueden deberse a datos incompletos, falta de contexto o entrenamiento insuficiente.
 
 ### ¿Por qué iterar un prompt?
-Porque raramente produce el resultado deseado a la primera. Evaluar y refinar el prompt ayuda a mejorar la calidad de la respuesta.
+Porque raramente se obtiene el resultado ideal en el primer intento. Refinar el prompt mejora la precisión y relevancia de la salida.
 
 ### ¿Qué técnicas de prompting multimodal se cubren?
-Cómo usar texto → imagen y cómo incluir imágenes o documentos como parte del prompt.
+- Generación de imágenes a partir de texto  
+- Uso de imágenes y documentos como parte del prompt
 
 ### ¿Se enseña responsabilidad al usar IA?
-Sí. Incluye estrategias para mitigar sesgos y errores en las respuestas, y evaluación ética del output.
+Sí. El curso enseña cómo mitigar sesgos, identificar errores y aplicar principios éticos al evaluar las salidas de modelos generativos.
 
 ---
 
 ## 📝 Este repositorio incluye
 
-- Resumen de principios fundamentales del módulo.  
-- Ejemplos siguiendo el marco 5 pasos.  
-- Iteraciones comparativas de prompts mejorados.  
-- Ejercicios completados: plan vacacional, brainstorming, generación de imagen y desafío final.  
-- Captura del uso del plugin “Coach” para diseñar prompts.
+- ✅ Resumen de los principios fundamentales del módulo  
+- 🧩 Ejemplos siguiendo el marco de 5 pasos  
+- 🔁 Iteraciones comparativas de prompts refinados  
+- ✍️ Ejercicios completados: planificación de vacaciones, brainstorming, generación de imágenes y desafío final  
+- 🧪 Capturas del uso del plugin interactivo “Coach” para diseñar prompts
 
 ---
 
 ## 📚 Recursos adicionales
 
-- Página del curso en Coursera: *Start Writing Prompts like a Pro* :contentReference[oaicite:14]{index=14}  
-- Información sobre la especialización más amplia *Google Prompting Essentials* :contentReference[oaicite:15]{index=15}  
+- [Página del curso en Coursera](https://www.coursera.org/learn/google-start-writing-prompts-like-a-pro)  
+- [Especialización completa: Google Prompting Essentials](https://www.coursera.org/specializations/prompting-essentials-google)
 
 ---
 
 ## ✅ Información adicional del curso
 
-| Elemento                     | Detalles                                         |
-|----------------------------|--------------------------------------------------|
-| Duración total módulo      | ~2 horas                                          |
-| Componentes del módulo     | 13 videos, 5 lecturas, 4 actividades, plugin     |
-| Técnica central            | Marco de 5 pasos + iteración                      |
-| Aplicaciones prácticas     | Plan vacacional, brainstorming, creatividad AI    |
-| Enfoque responsable        | Evaluación de sesgos, alucinaciones, ética        |
+| Elemento                  | Detalles                                          |
+|---------------------------|---------------------------------------------------|
+| Duración total del módulo | ~2 horas                                          |
+| Componentes               | 13 videos, 5 lecturas, 4 tareas, 1 plugin         |
+| Técnica central           | Marco de 5 pasos + it
 
----
-
-## 📌 Cómo usarlo
-
-- Como guía paso a paso para construir prompts efectivos.  
-- Para documentar tu aprendizaje del módulo y compartir ejemplos reales.  
-- Como plantilla para tu portafolio o repositorio de prompts reutilizables.
-
----
 https://coursera.org/verify/3ODHI80BO2HE
 
 [Coursera 3ODHI80BO2HE.pdf](https://github.com/user-attachments/files/21554488/Coursera.3ODHI80BO2HE.pdf)
