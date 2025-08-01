@@ -18,9 +18,9 @@ En este curso aprenderás un **marco de 5 pasos para escribir prompts efectivos*
 ## 📘 Módulo único: *Start Writing Prompts like a Pro*
 
 - **Módulo 1** (aproximadamente 2 horas):
-  - **13 videos** (~37 min): introducción, uso del marco de 5 pasos, iteración, multimodal prompting, y responsabilidad ética :contentReference[oaicite:5]{index=5}
-  - **5 lecturas** (~30 min): fundamentos del prompting eficaz, iteración responsable, prácticas multimodales y mitigación de alucinaciones AI :contentReference[oaicite:6]{index=6}
-  - **4 tareas prácticas** y 1 complemento (plugin) para interactuar con ejercicios en IA :contentReference[oaicite:7]{index=7}
+  - **13 videos** (~37 min): introducción, uso del marco de 5 pasos, iteración, multimodal prompting, y responsabilidad ética 
+  - **5 lecturas** (~30 min): fundamentos del prompting eficaz, iteración responsable, prácticas multimodales y mitigación de alucinaciones AI 
+  - **4 tareas prácticas** y 1 complemento (plugin) para interactuar con ejercicios en IA 
 
 ---
 
@@ -31,7 +31,7 @@ En este curso aprenderás un **marco de 5 pasos para escribir prompts efectivos*
 2. Aportar contexto relevante  
 3. Proveer referencias o ejemplos  
 4. Evaluar la respuesta del modelo  
-5. Iterar y refinar según resultados :contentReference[oaicite:8]{index=8}
+5. Iterar y refinar según resultados 
 
 ### Iteración del prompt:
 - Aprenderás cuatro métodos diferentes para afinar prompts según los resultados obtenidos :contentReference[oaicite:9]{index=9}
