@@ -85,7 +85,8 @@ A lo largo de los cursos, se enseñan fundamentos clave para:
 - [Prompting Guide (Google)](https://learnprompting.org/)
 
 ---
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afb828f6-d7bd-4957-91f3-d356d466b989" />
+https://coursera.org/share/2c81b5c419f7898f757dc138e7eb9540
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f3d1cab-aa87-4981-acf1-f59f6154d287" />
 
----
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afb828f6-d7bd-4957-91f3-d356d466b989" />
 
