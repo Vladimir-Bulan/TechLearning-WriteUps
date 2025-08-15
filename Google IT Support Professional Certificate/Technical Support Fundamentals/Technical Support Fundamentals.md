@@ -55,4 +55,7 @@ Este curso es el primer paso hacia roles como técnico de soporte, help desk, o 
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b970be58-9a41-405d-b9b1-76dae2188ea8" />
+https://coursera.org/share/37bc3c37e528e2919c0bd1f8119922f5
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/166f4ffd-d700-4d96-b114-6abf18b15948" />
+
 
