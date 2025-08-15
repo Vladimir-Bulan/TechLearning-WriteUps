@@ -1,13 +1,13 @@
-# Módulo 1 – Introduction to Asset Security  
-**Curso:** Assets, Threats, and Vulnerabilities  
-**Certificación profesional:** Google Cybersecurity Professional Certificate  
-**Plataforma:** [Coursera](https://www.coursera.org/learn/assets-threats-and-vulnerabilities)  
+# Módulo 1 – Introduction to IT  
+**Curso:** Technical Support Fundamentals  
+**Certificación profesional:** Google IT Support Professional Certificate  
+**Plataforma:** [Coursera](https://www.coursera.org/learn/technical-support-fundamentals/home/module/1)  
 
 ---
 
 ## 📖 Descripción
 
-Este módulo introduce los fundamentos de la **seguridad de activos** en el contexto de la ciberseguridad. Aborda cómo identificar, clasificar y proteger tanto activos físicos como digitales, y cómo estas prácticas se integran en la **gestión de riesgos** mediante el uso de marcos como **NIST CSF**.
+Este módulo ofrece una introducción integral al mundo de la **Tecnología de la Información (TI)**, explorando la evolución histórica de las computadoras, su funcionamiento actual y el papel fundamental de los **Especialistas en Soporte Técnico**. Se profundiza en el sistema binario, la arquitectura de las computadoras y los conceptos básicos de la informática.
 
 ---
 
@@ -15,26 +15,28 @@ Este módulo introduce los fundamentos de la **seguridad de activos** en el cont
 
 | Tipo de recurso | Cantidad | Duración total |
 |-----------------|----------|----------------|
-| Vídeos          | 10       | 32 min         |
-| Lecturas        | 9        | 48 min         |
-| Tareas          | 6        | ~134 min       |
-| Plugin          | 1        | 10 min         |
+| Videos          | 15       | 48 minutos     |
+| Lecturas        | 6        | 40 minutos     |
+| Tareas          | 4        | 94 minutos     |
+| Plugins         | 2        | 20 minutos     |
 
 ### Temas principales
-- Introducción a la seguridad de activos.  
-- Clasificación de activos físicos y digitales.  
-- Estados de los datos (en uso, en tránsito, en reposo).  
-- Evaluación de riesgos: amenazas y vulnerabilidades.  
-- Uso del marco **NIST Cybersecurity Framework**.  
+- Historia de las computadoras: desde el ábaco hasta la máquina analítica.  
+- Evolución hacia las computadoras modernas.  
+- Introducción al lenguaje de las computadoras: codificación de caracteres y sistema binario.  
+- Principios de abstracción en informática.  
+- Funciones y responsabilidades de un Especialista en Soporte Técnico.  
 
 ---
 
 ## 🎯 Habilidades adquiridas
 
-- Identificar y clasificar activos según su valor y criticidad.  
-- Evaluar riesgos asociados a amenazas y vulnerabilidades.  
-- Aplicar estándares y buenas prácticas usando el NIST CSF.  
-- Distinguir entre activos físicos y digitales y sus protecciones específicas.  
+- Comprender la historia y evolución de las computadoras.  
+- Interpretar y utilizar el sistema binario en operaciones informáticas.  
+- Reconocer la importancia de la abstracción en el diseño de sistemas.  
+- Identificar las funciones clave de un Especialista en Soporte Técnico.  
+- Aplicar metodologías básicas de resolución de problemas en el ámbito de TI.  
 
+---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1f939ed-4341-419b-9a4a-559352975da2" />
 
