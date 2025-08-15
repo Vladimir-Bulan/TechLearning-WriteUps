@@ -39,3 +39,6 @@ Este módulo ofrece una introducción a los **fundamentos de la seguridad inform
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58b26251-5701-4e3a-8388-c3157cdddbd7" />
+
+
